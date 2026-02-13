@@ -250,7 +250,7 @@ export default function Home() {
               </FadeIn>
             </div>
 
-            <FadeIn direction="right" delay={0.3}>
+           { /*<FadeIn direction="right" delay={0.3}>
               <div className="relative ">
                 <div className="flex flex-row h-full gap-4">
 
@@ -269,15 +269,14 @@ export default function Home() {
                       <Image src={speaker3} alt="Challenge Highlight" fill loading="lazy" />
                     </div>
                   </div>
-                </div>
-
+                </div> */}
                 {/*<div className="flex justify-center w-full absolute bottom-0 left-0 top-90">
                   <h2 className="text-2xl font-extrabold text-center bg-gradient-to-r from-[#eef1f0] to-[#0a0a0a] bg-clip-text text-transparent">
                     Previous Cyber Battles | Highlights
                   </h2>
-                </div>*/}
+                </div>
               </div>
-            </FadeIn>
+            </FadeIn>*/}
 
           </div>
         </div>
