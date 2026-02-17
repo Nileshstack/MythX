@@ -16,7 +16,7 @@
     "javascript-obfuscator": "^4.2.2",
     "lucide-react": "^0.488.0",
     "mongoose": "^9.2.1",
-    "next": "15.3.0",
+    "next": "^16.1.6",
     "next-rate-limit": "^0.0.3",
     "next-sitemap": "^4.2.3",
     "react": "^19.0.0",
