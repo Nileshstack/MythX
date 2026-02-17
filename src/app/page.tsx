@@ -35,7 +35,10 @@ const CountdownTimer = dynamic(() => import("@/components/Countdown"), {
 export default function Home() {
    const gradientColor = "rgba(33, 140, 99";
   const gradientOpacity = 0.4;
-
+useEffect(() => {
+    console.log("%c What are you doing here ?! you sneaky developer ", "color:#05fff2");
+    console.log("Check out my github: https://github.com/Nileshstack")
+  }, []);
    
 
   return (

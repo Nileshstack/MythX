@@ -38,9 +38,7 @@ export default function Register() {
 
   const router = useRouter();
 
-  useEffect(() => {
-    console.log("%c What are you doing here ?! you sneaky developer ", "color:#05fff2");
-  }, []);
+  
 
   const validateEmail = (email: string) =>
     /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email);
